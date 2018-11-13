@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MCOIN",
+  "name": "MCOIN",
+  "description": "MCOIN",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://vk.com/loika1",
+  "updateUrl": "",
+  "authorList": ["MellGrief"],
+  "credits": "https://vk.com/loika1",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
